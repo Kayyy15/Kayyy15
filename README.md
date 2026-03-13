@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">Electronics & Telecommunication Engineering Student</h3>
+<h3 align="center"> SY Electronics & Telecommunication Engineering Student</h3>
 
 <p align="center">
-💻 Python | ⚡ Embedded Systems | 🤖 AI Enthusiast  
+💻 Python | ⚡ Embedded Systems | 🤖 AI Enthusiast  | Data Analysis
 <br>
 🔧 Building practical tech projects and learning by experimenting
 </p>
@@ -12,9 +12,9 @@
 ## 🚀 About Me
 
 - 🎓 Electronics & Telecommunication Engineering student  
-- 💡 Interested in **AI, Embedded Systems and Software Development**  
+- 💡 Interested in **AI, Data Science and Software Development**  
 - 🛠️ Love building **real-world engineering projects**  
-- 🌱 Currently learning **Python, Arduino and backend integration**
+- 🌱 Currently learning **Python, Java, SQL and backend integration**
 
 ---
 
@@ -23,6 +23,9 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
 ### Tools
 ![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino)
@@ -32,19 +35,15 @@
 
 ---
 
-## 📂 Projects
+## 📂 Glimpse of my Projects
 
 🔹 **Indoor Navigation System**  
 AI-assisted campus navigation with pathfinding and Firebase backend
 
-🔹 **Solar Panel Cleaning System**  
-Arduino-based automated system to improve solar panel efficiency
 
 🔹 **Loud Noise Detector**  
 Embedded system using Arduino to detect high sound levels
 
-🔹 **Python Calculator**  
-Command-line calculator performing basic arithmetic operations
 
 ---
 
@@ -69,7 +68,7 @@ Command-line calculator performing basic arithmetic operations
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/Kayyy15
-- LinkedIn: (add your LinkedIn here)
+- LinkedIn: (https://www.linkedin.com/in/karan-shedge-904410328/)
 
 ---
 
